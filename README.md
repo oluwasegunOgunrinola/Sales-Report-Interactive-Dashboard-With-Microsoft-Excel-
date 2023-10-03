@@ -36,4 +36,4 @@ vii. Lastly, Sales date period January to May 2020, also had a fairalmost even d
 
 There is a lot more to explore using many different skills of data analytics, such as data cleaning, data modeling, data visualization, problem solving, design thinking, data presentation, and more!
 
-# Download pdf. and pbix. file for the detailed and comprehensive report
+# Download pdf. file for the detailed and comprehensive report

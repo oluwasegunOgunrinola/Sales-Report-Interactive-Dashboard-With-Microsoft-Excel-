@@ -14,6 +14,8 @@ Tasks involved:
 
 Thereafter, an amazing interactive dashboard was created for the client, and several trends in the underlying data were shown, including revenue by sales channel, profit by region, revenue by sales team, revenue by product category, profit by the top 10 sales teams, revenue and profit by sales date, revenue by states, revenue, median income, and population by state. Data-driven insights and recommendations were generated based on the sales performance of sales reps, sales channel, region, product category, sales date, and state in the United States from visualizations.
 
+![](sales_dashboard_header.JPG)
+
 Data-driven insights and recommendations on sales performance of sales reps, sales channel,  region, product category, sales date, and state in the United States.
 
   i.  Nicholas Cunningham Sales Team had the highest sum of revenue and profit with $1,856,248 and $530,357 respectively for the sales period January to May 2020, this reveals the overall efficacy of this team's sales strategy and also the effectiveness of this team in converting leads into customers. 
